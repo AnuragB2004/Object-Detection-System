@@ -35,12 +35,6 @@ In the Google Colab notebook, follow the instructions provided in the code cells
 - Perform object detection on the provided images or your custom dataset.
 - Visualize the results and evaluate the performance of the object detection system.
 
-## Examples
-
-Here are some examples of the system's capabilities:
-
-![Object Detection Example](/examples/example1.png)
-
 ## Contributing
 
 Contributions to this project are welcome. To contribute, follow these steps:
